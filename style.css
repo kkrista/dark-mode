@@ -17,7 +17,7 @@
   }
   
   .container.dark {
-    background-color: #262626;
+    background-color: gray;
   }
   
   .toggle {
@@ -34,7 +34,7 @@
   }
   
   .container.dark .toggle {
-    background-color: #464646;
+    background-color: #353535;
   }
   
   .toggle i {
